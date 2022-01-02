@@ -1,0 +1,9 @@
+train: /work3/s211828/images/train/
+val: /work3/s211828/images/val/
+test: /work3/s211828/images/test/
+
+#number of classes
+nc: 36
+##
+### Class names
+names : ['DHelmet', 'DHelmetP0Helmet', 'DHelmetP0HelmetP1Helmet', 'DHelmetP0HelmetP1HelmetP2Helmet', 'DHelmetP0HelmetP1NoHelmetP2Helmet', 'DHelmetP0HelmetP1NoHelmetP2NoHelmet', 'DHelmetP0NoHelmet', 'DHelmetP0NoHelmetP1Helmet', 'DHelmetP0NoHelmetP1HelmetP2Helmet', 'DHelmetP0NoHelmetP1NoHelmet', 'DHelmetP0NoHelmetP1NoHelmetP2Helmet', 'DHelmetP0NoHelmetP1NoHelmetP2NoHelmet', 'DHelmetP0NoHelmetP1NoHelmetP2NoHelmetP3Helmet', 'DHelmetP0NoHelmetP1NoHelmetP2NoHelmetP3NoHelmet', 'DHelmetP1Helmet', 'DHelmetP1HelmetP2Helmet', 'DHelmetP1HelmetP2NoHelmet', 'DHelmetP1NoHelmet', 'DHelmetP1NoHelmetP2Helmet', 'DHelmetP1NoHelmetP2NoHelmet', 'DHelmetP1NoHelmetP2NoHelmetP3Helmet', 'DHelmetP1NoHelmetP2NoHelmetP3NoHelmet', 'DNoHelmet', 'DNoHelmetP0HelmetP1NoHelmet', 'DNoHelmetP0NoHelmet', 'DNoHelmetP0NoHelmetP1Helmet', 'DNoHelmetP0NoHelmetP1NoHelmet', 'DNoHelmetP0NoHelmetP1NoHelmetP2Helmet', 'DNoHelmetP0NoHelmetP1NoHelmetP2NoHelmet', 'DNoHelmetP0NoHelmetP1NoHelmetP2NoHelmetP3NoHelmet', 'DNoHelmetP1Helmet', 'DNoHelmetP1HelmetP2Helmet', 'DNoHelmetP1NoHelmet', 'DNoHelmetP1NoHelmetP2Helmet', 'DNoHelmetP1NoHelmetP2NoHelmet', 'DNoHelmetP1NoHelmetP2NoHelmetP3NoHelmet']
